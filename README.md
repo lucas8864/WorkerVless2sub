@@ -182,7 +182,6 @@
 | CMPROXYIPS | `proxyip.aliyun.fxxk.dedyn.io:HK` | 识别HK后分配对应的ProxyIP(支持多元素, 元素之间使用`,`作间隔) | 
 
 ## Star 星星走起
-[![Stargazers over time](https://starchart.cc/lucas8864/WorkerVless2sub.svg?variant=adaptive)](https://starchart.cc/cmliu/WorkerVless2sub)
 
 
 
